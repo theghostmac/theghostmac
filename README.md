@@ -28,7 +28,7 @@
 <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=flat&logo=rust" /></a>
 <a href="https://www.golang.org"><img src="https://img.shields.io/badge/LANG-Go-f2cdcd?style=flat&logo=go" /></a>
 <a href="https://discord.gg/ghost_mac"><img src="https://img.shields.io/discord/831364077875626015?color=74c7ec&label=DISCORD&logo=discord" /></a>
-	<br />
+<a href="https://github.com/theghostmac"><img src="https://img.shields.io/github/stars/theghostmac?color=cdd6f4&label=GITHUB&style=flat&logo=github" /></a>
 
 </div>
 <div align="center">
