@@ -34,11 +34,15 @@
 <div align="center">
 <h2>Fun Projects in Here </h2>
 	<ul>
-		<li><a href="https://github.com/theghostmac/bankie.go">Bankie.go</a> - FinTech App with Go | PostgreSQL | Docker</li> <img alt="Bankie.go Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/bankie.go/build.yml">
+		<li><a href="https://github.com/theghostmac/bankie.go">Bankie.go</a> - FinTech App </li> <img alt="Bankie.go Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/bankie.go/build.yml">
     <li><a href="https://github.com/theghostmac/Zettelkasten">Zettelkasten </a> - Your digital brain on the cloud</li><img alt="Zettelkasten Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/Zettelkasten/build.yml">
-
-  <br />
+     <li><a href="https://theghostmac.github.io">Personal Website </a> - For Blog Posts and Project Demos</li><img alt="Codecov" src="https://img.shields.io/codecov/c/github/theghostmac/theghostmac.github.io">
+  		<br />
 	</ul>
+<img src="https://github-readme-stats.vercel.app/api?username=theghostmac&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&line_height=24&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theghostmac&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+
+
 
 
 </div>
