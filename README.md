@@ -8,7 +8,6 @@
 <div align="center">
  <h2> I'm a software and blockchain engineer </h2>
 
-- 🏢 I'm currently working at **IOD** as well as other freelancing platforms.
 - 🌱 I’m a huge fan of imagining software and making it.
 - ⛴ I'm a hardcore Golang fanatic with blooming love for Rust.
 - 💚 I'm actively preaching Go for Cloud-native and web development, and Rust for blockchain and systems programming
