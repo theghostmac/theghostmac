@@ -28,4 +28,4 @@
 
 </div>
 
-[MacBobby Chibuzor](https://theghostmac.github.io)
+Visit my blog at: [MacBobby Chibuzor](https://theghostmac.github.io)
