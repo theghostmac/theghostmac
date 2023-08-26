@@ -14,7 +14,8 @@
 <div align="center">
 <h2>Fun Projects in Here </h2>
 	<ul>
-		<li><a href="https://github.com/theghostmac/pluto">Pluto 🚀</a> - Blockchain from first principles </li> <img alt="Pluto Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/pluto/pluto.yml">
+	<li><a href="https://github.com/theghostmac/pluto">Pluto 🚀</a> - Blockchain from first principles </li> <img alt="Pluto Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/pluto/pluto.yml">
+	<li><a href="https://github.com/theghostmac/pricefetcher">Pricefetcher </a> - gRPC client listening for ticker prices </li> <img alt="Pricefetcher Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/pricefetcher/build.yml">
 	<li><a href="https://github.com/theghostmac/bankie.go">Bankie.go</a> - FinTech App </li> <img alt="Bankie.go Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/bankie.go/build.yml">
     <li><a href="https://github.com/theghostmac/Zettelkasten">Zettelkasten </a> - Your digital brain on the cloud</li><img alt="Zettelkasten Workflow Status" src="https://img.shields.io/github/actions/workflow/status/theghostmac/Zettelkasten/build.yml">
      <li><a href="https://theghostmac.github.io">Personal Website </a> - For Blog Posts and Project Demos</li><img alt="Codecov" src="https://img.shields.io/codecov/c/github/theghostmac/theghostmac.github.io">
