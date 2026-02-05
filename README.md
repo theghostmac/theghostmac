@@ -2,7 +2,7 @@
 
 Stay updated with my latest work and projects:
 
-- **[Blog](https://theghostmac.github.io)**: Dive into my thoughts, tutorials, and more.
+- **[Blog](https://theghostmac.codes)**: Dive into my thoughts, tutorials, and more.
 - **[Work Log](https://ghostmac.notion.site/Work-Log-ff5e8132f75d44b984834c1539cc5f0c?pvs=4)**: Track my daily progress and insights.
 
 ## My Coding Activity
